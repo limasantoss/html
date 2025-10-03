@@ -1,0 +1,3 @@
+Sêmantica 
+-Dar significado
+-elementos 
